@@ -2,7 +2,7 @@
 # Afterburner Toolhead Board #
 ![PCB](Images/PCB.jpg)
 
- Sơ đồ nối dây cho [Octopus](Images/ercf toolheader.jpg)
+ Sơ đồ nối dây cho [Octopus](Images/Octopus_wiring.jpg)
  
     Pinout 
     24V  - PSU +V 
