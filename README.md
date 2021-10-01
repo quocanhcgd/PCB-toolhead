@@ -1,6 +1,6 @@
 
 # Afterburner Toolhead Board #
-Images/wiringDiagram.png
+![PCB](Images/PCB.jpg)
 
  [Here](Images/wiringDiagram.png) is the wiring diagram
  
