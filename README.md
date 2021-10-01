@@ -1,8 +1,8 @@
 
 # Afterburner Toolhead Board #
+![PCB](Images/PCB.jpg)
 
-
- [Here](Images/Rev3.2/wiringDiagram.png) is the wiring diagram
+ Sơ đồ nối dây cho [Octopus](Images/Octopus_wiring.jpg)
  
     Pinout 
     24V  - PSU +V 
@@ -22,8 +22,8 @@
 
 
 
-### chamber thermistor config settings for SKR1.4 connected to TH1
- ## Config for 3.2,4.0,4.1,ERCF
+### chamber thermistor config settings
+
     #######################################
     #### Enclosure Temp Sensor Section ####
     #######################################
@@ -35,7 +35,7 @@
 	
 	[temperature_sensor enclosure_temp]
     sensor_type: chamber_temp
-    sensor_pin: P0.23
+    sensor_pin: P0.23 #Octopus use PF5
     min_temp: 0
     max_temp: 100
     gcode_id: C
