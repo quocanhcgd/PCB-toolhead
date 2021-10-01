@@ -1,8 +1,8 @@
 
 # Afterburner Toolhead Board #
+Images/wiringDiagram.png
 
-
- [Here](Images/Rev3.2/wiringDiagram.png) is the wiring diagram
+ [Here](Images/wiringDiagram.png) is the wiring diagram
  
     Pinout 
     24V  - PSU +V 
